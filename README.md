@@ -192,7 +192,7 @@ Using a 30% post-outreach retention assumption and ₹500 cost per customer cont
 
 ```bash
 git clone https://github.com/Srishh-ti/Telco-Customer-Churn.git
-cd telco-churn-analysis
+cd Telco-Customer-Churn
 ```
 
 ### 2. Install dependencies
